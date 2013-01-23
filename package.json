@@ -13,7 +13,7 @@
   ],
   "authors": "Ilya Volodarsky <ilya@segment.io>, Calvin French-Owen <calvin@segment.io>",
   "engines": {
-    "node": ">= 0.8.x"
+    "node": ">= 0.6.x"
   },
   "main": "./lib",
   "dependencies": {
